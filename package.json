@@ -1,0 +1,14 @@
+{
+  "name": "di-teste-fullstack-est-gio",
+  "version": "1.0.0",
+  "repository": "https://github.com/jeffersonRibeiro/di-teste-fullstack-est-gio.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./src/main.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "telegraf": "^4.16.3"
+  }
+}
